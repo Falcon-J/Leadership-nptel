@@ -132,7 +132,7 @@ export const listOfQuestions = [
       "Teacher-Mentor",
       "Warrior-Knight",
     ],
-    correct: 2,
+    correct: 3,
     id: 14,
   },
   {
@@ -563,7 +563,7 @@ export const listOfQuestions = [
       "Leadership Competence",
       "Managerial Effectiveness",
     ],
-    correct: 0,
+    correct: 1,
     id: 55,
   },
   {
